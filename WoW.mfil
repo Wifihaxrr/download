@@ -1,0 +1,4 @@
+version=2
+server=localhost
+	location=http://216.175.21.7/wow-pod-retail/NA/15890.direct/
+manifest_partial=wow-18019-custom.mfil
